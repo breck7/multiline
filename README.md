@@ -14,7 +14,6 @@ This should work:
     console.log(foobar)
 
 
-
 Current Workarounds
 -------------------
 
@@ -30,3 +29,13 @@ These are ugly:
     "big\n" +
     "world"
     console.log(foobar)
+
+
+
+Update
+------
+
+So thanks to AviMarcus for the tip about backticks. Backticks would solve the problem!
+
+As explained here: http://www.nczonline.net/blog/2012/08/01/a-critical-review-of-ecmascript-6-quasi-literals/
+
