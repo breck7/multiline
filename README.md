@@ -1,4 +1,7 @@
-multiline
-=========
+Multiline String Support In Javascript
+======================================
 
-Multiline strings in multiple languages
+How to we make Javascript support multiline strings with the escape character?
+
+
+

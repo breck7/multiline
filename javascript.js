@@ -1,4 +1,4 @@
-var foo = "hello
+var foobar = "hello
 big
 world"
-console.log(foo)
+console.log(foobar)
