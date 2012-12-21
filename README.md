@@ -35,7 +35,16 @@ These are ugly:
 Update
 ------
 
-So thanks to AviMarcus for the tip about backticks. Backticks would solve the problem!
+So thanks to AviMarcus for the tip. Template literals, part of ES6, will allow you to do this using backticks:
 
-As explained here: http://www.nczonline.net/blog/2012/08/01/a-critical-review-of-ecmascript-6-quasi-literals/
+    var foobar = `hello
+    big
+    world`
+
+See discussion here: http://www.nczonline.net/blog/2012/08/01/a-critical-review-of-ecmascript-6-quasi-literals/
+
+And read template literals in the spec:
+
+http://wiki.ecmascript.org/lib/exe/fetch.php?id=harmony%3Aspecification_drafts&cache=cache&media=harmony:working_draft_ecma-262_edition_6_11-22-12-nomarkup.pdf
+
 
